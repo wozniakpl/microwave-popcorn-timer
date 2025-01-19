@@ -2,6 +2,8 @@
 
 The solution for people that don't know how to deal with their microwave popcorn.
 
+Available at: [https://wozniakpl.github.io/microwave-popcorn-timer/](https://wozniakpl.github.io/microwave-popcorn-timer/)
+
 ## How it works
 
 Put your popcorn in the microwave, press the "Start" button and wait until the app tells you that your popcorn is ready.
